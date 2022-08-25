@@ -118,6 +118,11 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
+			"name": "lan",
+			"description": "CDN for lan",
+			"domain_files": ["lan.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
